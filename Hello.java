@@ -6,5 +6,7 @@ public class Hello {
         System.out.println("Hello World");
 
         System.out.println("Drugie powitanie");
+        int myFirstNumber = 5;
+        System.out.println(myFirstNumber);
     }
 }
